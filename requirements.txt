@@ -1,0 +1,9 @@
+numpy
+opencv-python
+chess
+stockfish
+ikpy
+pyFirmata
+cv2-enumerate-cameras
+chess
+
